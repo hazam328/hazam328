@@ -1,3 +1,6 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+
 - 👋 Hi, It's @hazaam I'm a Developer
 
 
