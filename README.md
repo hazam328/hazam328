@@ -1,3 +1,5 @@
+******Current******
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.hazam328}.${your.repo.id})
 
 
@@ -14,6 +16,8 @@
 
 
 - 📫 How to reach me hazamkhan328@gmail.com
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hazam328&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!---
 hazam328/hazam328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
