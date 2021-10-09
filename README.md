@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hazaam
+- 👋 Hi, It's @hazaam I'm a Developer
 
 
 - 👀 I’m interested in **Computer Vision**, **Data Science** and **Web Development**
