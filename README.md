@@ -4,10 +4,10 @@
 - 👀 I’m interested in **Computer Vision**, **Data Science** and **Web Development**
 
 
-- 🌱 I’m currently learning _Python flask&django_
+- 🌱 I’m currently learning _Python flask And django_
 
 
-- 💞️ I’m looking to collaborate on Back-end development
+- 💞️ I’m looking to collaborate with _yet to decide_
 
 
 - 📫 How to reach me hazamkhan328@gmail.com
