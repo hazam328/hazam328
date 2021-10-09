@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Computer Vision**, **Data Science** and **Web Development**
 
 
-- 🌱 I’m currently learning _Python flask And django_
+- 🌱 I’m currently learning **_Python flask** And **django_**, **Computer Vision**, and **Data Science**
 
 
 - 💞️ I’m looking to collaborate with _yet to decide_
