@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.hazam328}.${your.repo.id})
 
 
 - 👋 Hi, It's @hazaam I'm a Developer
