@@ -11,10 +11,10 @@
 - 👋 Hi, It's @hazaam I'm a Developer
 
 
-- 👀 I’m interested in **Computer Vision**, **Data Science** and **Web Development**
+- 👀 I’m interested in **Machine Learning**, **Data Science** and **Web Development**
 
 
-- 🌱 I’m currently learning **Python flask** And **django**, **Computer Vision**, and **Data Science**
+- 🌱 I’m currently learning **Data Science**, **Python flask** **django**,and **Computer Vision**.
 
 
 - 💞️ I’m looking to collaborate with _yet to decide_
