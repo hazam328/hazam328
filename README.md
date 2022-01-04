@@ -43,7 +43,7 @@
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/hazamkhan
-[2]: https://www.linkedin.com/in/hazamkhan
+[2]: www.linkedin.com/in/hazam-khan-52a86b1aa
 <!---
 hazam328/hazam328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
