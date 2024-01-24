@@ -14,7 +14,7 @@
 - 👀 I’m interested in **Machine Learning**, **Data Science** and **Web Development**
 
 
-- 🌱 I’m currently learning **Data Science**, **Python flask** **django**,and **Computer Vision**.
+- 🌱 I’m Expertise in  **Data Science**, **Data Analyst**, **Python flask** **django**,and **Computer Vision**.
 
 
 - 💞️ I’m looking to collaborate with _yet to decide_
