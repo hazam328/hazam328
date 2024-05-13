@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.hazam328}.${your.repo.id})
 
 
-- 👋 Hi, It's @hazaam I'm a Developer
+- 👋 Hi, It's @hazaam I'm a Data Scientist
 
 
 - 👀 I’m interested in **Machine Learning**, **Data Science** and **Web Development**
